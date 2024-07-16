@@ -20,19 +20,19 @@
 - [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/) `GFG` {Not seen but know}
 - [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG`
 - [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) `GFG`
-- [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode`
-- [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode`
-- [Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode`
+- [Power of Two](https://leetcode.com/problems/power-of-two/) `leetcode` {O(1) solution by using return floor(log2(n)) == ceil(log2(n)) ? true : false; true for power of 2, O(logn) }
+- [Power of Three](https://leetcode.com/problems/power-of-three/) `leetcode` {done}
+- [Power of Four](https://leetcode.com/problems/power-of-four/) `leetcode` {done}
 - Write a recursive function for given n and a to determine x:
 ```java
       n = a ^ x 
       a = 2, 3, 4
       (2 ^ -31) <= n <= (2 ^ 31) - 1      
 ```
-- [Write a recursive function that returns the factorial of a number.](https://www.hackerrank.com/challenges/30-recursion/problem) `HackerRank`
-- [Write a recursive function to check whether an array is sorted or not.](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive) `GFG`
-- [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `leetcode`
-- [Check for balanced paranthesis using recursion without stack.](https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/) `GFG`
+- [Write a recursive function that returns the factorial of a number.](https://www.hackerrank.com/challenges/30-recursion/problem) `HackerRank`{done}
+- [Write a recursive function to check whether an array is sorted or not.](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive) `GFG`{done}
+- [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `leetcode`{done}
+- [Check for balanced paranthesis using recursion without stack.](https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/) `GFG`{impo}
 - [Remove consecutive duplicate characters from a string.](https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/) `GFG` 
 - [Print all possible palindromic partitions of a string.](https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/) `GFG`
 - [Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) `GFG`
